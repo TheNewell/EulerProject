@@ -20,6 +20,6 @@ def main():
     # print("Problem #3: {}".format(lrgPrimeFactor.primeFactors(600851475143)))
     # print("Problem #5: {}".format(prbFiveToTen.smallestMultiple(1, 20)))
     # print(f"Problem #6: {prbFiveToTen.sum_square_diff(100)}")
-    print(f"Problem #7: {prbFiveToTen.prime_num(10001)}")
-
+    # print(f"Problem #7: {prbFiveToTen.prime_num(10001)}")
+    print(f"Problme #8: {prbFiveToTen.lrg_product_series()}")
 if __name__ == '__main__': main()
